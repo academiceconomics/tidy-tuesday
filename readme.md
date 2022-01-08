@@ -1,12 +1,12 @@
 # Tidy Tuesday for the AED
 
-Tidy Tuesday is a community data science challenge meant for practicing and learning basic data wrangling and visualization. Feel free to work in your most comfortable language, or one you want to learn, but I will be most helpful with R. 
+Tidy Tuesday is a community data science challenge meant for practicing and learning basic data wrangling and visualization. Feel free to work in your most comfortable language, or one you want to learn. 
 
 Here is the plan:
 1. The data and source article is released on a Tuesday. As a community, members can play with or work with the datasets, post interesting graphs, ask the channel questions, share their code.
 2. Later in the week (TBD but probably Saturday) we meet and discuss. I will always have something worked out that we can walk through.
 
-The data is either going to come from the R4DS Tidy Tuesday github repository (https://github.com/rfordatascience/tidytuesday) or the academic econ tidy tuesday github repository (). 
+The data is either going to come from the R4DS Tidy Tuesday github repository (https://github.com/rfordatascience/tidytuesday) or the academic econ tidy tuesday github repository (here). 
 
 I know we have people from different time zones, and I want to make it possible for people to attend the meetings, so if you plan on joining please fill out this form with your available times in EST: https://www.when2meet.com/?14071690-Ny63G.
 
